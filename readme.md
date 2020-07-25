@@ -1,4 +1,4 @@
-# Prueba Tecnica TALENTA
+# Prueba Técnica TALENTA
 
 Para ejecutar la prueba solo es necesario abrir el .html que se encuentra en la raiz, tambien es posible ejecutarlo con http-server si se tiene instaladado
 
